@@ -1,5 +1,5 @@
-from funcs import function
+from funcs import function, function_2
 
 function()
 
-
+function_2()
