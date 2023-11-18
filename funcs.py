@@ -5,3 +5,11 @@ def function():
 
 
 function()
+
+def function_2():
+    a = 25
+    b = 4
+    print(a - b)
+
+
+function_2()
